@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Seonhyu == Developer
+description: 굴러먹을 데로 굴러먹은 그리고 구르고 있는 노땅 개발자
+meta_description: "Seonhyu's blog"
 
 markdown: redcarpet
 pygments: true
@@ -8,5 +8,5 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'http://seonhyu.gihub.io'
+author:         'Seonhyu Kim'

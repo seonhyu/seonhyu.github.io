@@ -1,5 +1,5 @@
 name: Seonhyu == Developer
-description: 굴러먹을 데로 굴러먹은 그리고 구르고 있는 노땅 개발자
+description: Guides / Practices / Productivity for S/W developer
 meta_description: "Seonhyu's blog"
 
 markdown: redcarpet
@@ -9,4 +9,4 @@ paginate: 15
 
 # Details for the RSS feed generator
 url:            'http://seonhyu.gihub.io'
-author:         'Seonhyu'
+author:         '@seonhyu'

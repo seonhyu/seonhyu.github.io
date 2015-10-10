@@ -1,9 +1,9 @@
-name: Seonhyu == Developer
+name: Seonhyu's Blog
 description: Guides / Practices / Productivity for S/W developer
-meta_description: "Seonhyu's blog"
+meta_description: "Seonhyu's Blog"
 
 markdown: redcarpet
-pygments: true
+highliter: 'pygments'
 logo: false
 paginate: 15
 

@@ -1,0 +1,13 @@
+graph LR
+    vim((Vim + livedown plugin));
+    md[.md 파일];
+    mmd[.mmd 파일];
+    png[.png 이미지파일];
+    chrome((localhot:1337));
+
+    vim-->md;
+    vim-->mmd;
+    mmd-->png;
+    png-->md;
+    md--Preview, Refresh __-->chrome;
+
